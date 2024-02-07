@@ -1,2 +1,5 @@
-# blazor-todo
-a repository for learning .net development and blazor
+# Starting tailwind cli
+
+```
+npx tailwindcss -i ./Styles/app.css -o ./wwwroot/app.css --watch
+```
